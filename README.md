@@ -76,4 +76,4 @@ Keep prompt templates in the appropriate model folder and multi-model procedures
 
 ## License
 
-No license has been selected for this repository. Public availability alone does not grant an open-source license; contact the repository owner about reuse permissions.
+Released under the [MIT License](LICENSE).
