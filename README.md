@@ -32,7 +32,7 @@ ai-prompt-engineering-hub/
 ## Quick start
 
 ```bash
-git clone https://github.com/mohammed2345353/ai-prompt-engineering-hub.git
+git clone https://github.com/mohammed-saray/ai-prompt-engineering-hub.git
 cd ai-prompt-engineering-hub
 ```
 
